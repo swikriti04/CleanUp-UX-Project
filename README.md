@@ -18,7 +18,6 @@
 - How to prepare, what to wear or bring.
 - If I can’t make this are there any other similar?
 
-![5](https://github.com/swikriti04/CleanUp-UX-Project/blob/main/5.png)
 
 ## Selected Features For APP
 ![4](https://github.com/swikriti04/CleanUp-UX-Project/blob/main/4.png)
