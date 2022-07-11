@@ -1,5 +1,6 @@
 # CleanUp-UX-Project
 ### Volunteer Events To Make Your Community A Better Place
+![1]()
 
 ## What is CleanUP?
 CleanUp is an app where people can find & register for upcoming volunteer events in their community.
