@@ -34,3 +34,6 @@
 
 ## Final Design 
 ![9](https://github.com/swikriti04/CleanUp-UX-Project/blob/main/9.png)
+
+## Thank You
+![10](https://github.com/swikriti04/CleanUp-UX-Project/blob/main/10.png)
